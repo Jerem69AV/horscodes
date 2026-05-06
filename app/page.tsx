@@ -125,14 +125,6 @@ export default function HomePage() {
         </div>
 
         <div className="max-w-5xl mx-auto relative z-10">
-          {/* Badge pill éditorial avec dot animé */}
-          <div className="animate-fade-in-up mb-7 sm:mb-9">
-            <span className="badge-pill">
-              <span className="badge-dot" aria-hidden="true" />
-              Association loi 1901 · Auvergne-Rhône-Alpes
-            </span>
-          </div>
-
           {/* H1 ENORME serif — laser-cut, fin, premium */}
           <h1
             className="animate-fade-in-up-delay-1 text-[clamp(3.5rem,11vw,8rem)] leading-[0.92] mb-6 sm:mb-8"
